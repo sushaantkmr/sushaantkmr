@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sushaantkmr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sushant Kumar
+- 👀 I’m interested in Anime, K-drama.
+- 🌱 I’m currently learning and working in Hardware and Networking
+- 💞️ I’m looking to collaborate with guys who are interested in networking
+- 📫 How to reach me? --> e: sushantkmr7274@gmail.com
 
 <!---
 sushaantkmr/sushaantkmr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
